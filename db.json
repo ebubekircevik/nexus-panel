@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "price": 299.99,
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "price": 399.99,
+      "description": "Feature-rich smartwatch with health tracking",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "createdAt": "2024-01-16T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Running Shoes",
+      "price": 129.99,
+      "description": "Comfortable running shoes for daily exercise",
+      "category": "sports",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "createdAt": "2024-01-17T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Coffee Maker",
+      "price": 89.99,
+      "description": "Automatic coffee maker with timer function",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400",
+      "createdAt": "2024-01-18T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Designer T-Shirt",
+      "price": 49.99,
+      "description": "Premium cotton t-shirt with modern design",
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "createdAt": "2024-01-19T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Programming Book",
+      "price": 59.99,
+      "description": "Comprehensive guide to modern web development",
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400",
+      "createdAt": "2024-01-20T10:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "Admin",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+      "phone": "+1 234 567 8901",
+      "address": "123 Main St, New York, NY 10001",
+      "createdAt": "2024-01-10T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200",
+      "phone": "+1 234 567 8902",
+      "address": "456 Oak Ave, Los Angeles, CA 90001",
+      "createdAt": "2024-01-11T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "role": "Manager",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200",
+      "phone": "+1 234 567 8903",
+      "address": "789 Pine Rd, Chicago, IL 60601",
+      "createdAt": "2024-01-12T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Sarah Williams",
+      "email": "sarah.williams@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200",
+      "phone": "+1 234 567 8904",
+      "address": "321 Elm St, Houston, TX 77001",
+      "createdAt": "2024-01-13T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Robert Brown",
+      "email": "robert.brown@example.com",
+      "role": "Manager",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+      "phone": "+1 234 567 8905",
+      "address": "654 Maple Dr, Phoenix, AZ 85001",
+      "createdAt": "2024-01-14T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200",
+      "phone": "+1 234 567 8906",
+      "address": "987 Cedar Ln, Philadelphia, PA 19101",
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "role": "Admin",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200",
+      "phone": "+1 234 567 8907",
+      "address": "147 Birch St, San Antonio, TX 78201",
+      "createdAt": "2024-01-16T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Lisa Anderson",
+      "email": "lisa.anderson@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=200",
+      "phone": "+1 234 567 8908",
+      "address": "258 Spruce Ave, San Diego, CA 92101",
+      "createdAt": "2024-01-17T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Christopher Taylor",
+      "email": "christopher.taylor@example.com",
+      "role": "Manager",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200",
+      "phone": "+1 234 567 8909",
+      "address": "369 Willow Way, Dallas, TX 75201",
+      "createdAt": "2024-01-18T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Jessica Martinez",
+      "email": "jessica.martinez@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+      "phone": "+1 234 567 8910",
+      "address": "741 Aspen Rd, San Jose, CA 95101",
+      "createdAt": "2024-01-19T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Daniel Garcia",
+      "email": "daniel.garcia@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=200",
+      "phone": "+1 234 567 8911",
+      "address": "852 Poplar St, Austin, TX 78701",
+      "createdAt": "2024-01-20T10:00:00Z"
+    },
+    {
+      "id": "12",
+      "name": "Amanda Rodriguez",
+      "email": "amanda.rodriguez@example.com",
+      "role": "Manager",
+      "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=200",
+      "phone": "+1 234 567 8912",
+      "address": "963 Hickory Blvd, Jacksonville, FL 32201",
+      "createdAt": "2024-01-21T10:00:00Z"
+    },
+    {
+      "id": "13",
+      "name": "Matthew Lee",
+      "email": "matthew.lee@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200",
+      "phone": "+1 234 567 8913",
+      "address": "159 Magnolia Dr, Indianapolis, IN 46201",
+      "createdAt": "2024-01-22T10:00:00Z"
+    },
+    {
+      "id": "14",
+      "name": "Michelle White",
+      "email": "michelle.white@example.com",
+      "role": "User",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200",
+      "phone": "+1 234 567 8914",
+      "address": "357 Sycamore Ln, Columbus, OH 43201",
+      "createdAt": "2024-01-23T10:00:00Z"
+    },
+    {
+      "id": "15",
+      "name": "James Harris",
+      "email": "james.harris@example.com",
+      "role": "Admin",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200",
+      "phone": "+1 234 567 8915",
+      "address": "468 Cherry St, Fort Worth, TX 76101",
+      "createdAt": "2024-01-24T10:00:00Z"
+    },
+    {
+      "id": "1768121106041",
+      "name": "Ebubekir ÇEVİK",
+      "email": "ebubekircevik666@gmail.com",
+      "role": "User",
+      "phone": "05319234235",
+      "address": "İstanbul İstanbul İstanbul İstanbul",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+      "createdAt": "2026-01-11T08:45:06.041Z"
+    }
+  ]
+}
